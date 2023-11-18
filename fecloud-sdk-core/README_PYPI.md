@@ -1,1 +1,0 @@
-See detailed information in [fecloud-sdk-python](https://github.com/fecloud-sdk/fecloud-sdk-python).
